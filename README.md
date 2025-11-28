@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **BootStrap, JavaScript, CSS**
 
-- 📫 How to reach me: **sanketshetty811@gmail.com**
+- 📫 How to reach me: **shettysanket006@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1yv0_LoggpoCm4Ef7UjUt--Ml7BxTYZ0a?usp=sharing)
 
