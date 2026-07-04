@@ -34,4 +34,4 @@
 <br>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket11shetty&" alt="sanket11shetty" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket11shetty&" alt="sanket11shetty" /></p>
